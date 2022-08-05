@@ -45,7 +45,7 @@ global.owner = ['761192103'] //ur owner number
 global.ownername = "🍭𝗠𝗔𝗗 𝗠𝗔𝗫"
 global.ytname = " //ur yt chanel name
 global.socialm = "Insta: mad_max_yt_" //ur github or insta name
-global.location = "Sri-Lanka" //ur location
+global.location = "India" //ur location
 
 //bot bombdy
 global.botname = "ᴛᴏxɪᴄ ᴍᴀx ᴍᴅ" //ur bot name
@@ -59,8 +59,8 @@ global.ownertag = ['917994827702'] //ur owner tag
 global.ownernummenu = ['761192103'] //ur owner number in menu and all
 global.watermark = "White King WhatsApp Bot." //ur watermark
 global.botscript = 
-global.linkz1 = 
-global.linkz2 = 
+global.linkz1 = "https://chat.whatsapp.com/DgNHqhJd07M3plApO4NfU7"
+global.linkz2 ="https://chat.whatsapp.com/DgNHqhJd07M3plApO4NfU7" 
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
